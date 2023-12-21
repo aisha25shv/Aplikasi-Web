@@ -1,3 +1,3 @@
 streamlit==1.29.0
 scikit-learn
-git+https://github.com/aisha25shv/genre_page.git
+git+https://<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>@github.com/aisha25shv/genre_page.git
